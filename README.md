@@ -4,15 +4,15 @@ this is a Template which will be used for my personal portfolio. Feel free to us
 
 ## Used Technologies
 
-- Jekyll
-- Sass
-- Bower
-- Bootstrap 3
+* Jekyll
+* Sass
+* Bootstrap 3
+* Formspree
 
 ## Installation
 
-to install dependencies run `bower install`
+to run server, run `jekyll serve`
 
-to run server, run `jekyll server`
+if you have the gh-pages gem installed, then run `bundle exec jekyll serve`
 
-go to `localhost:4000` 
+go to `localhost:4000`
